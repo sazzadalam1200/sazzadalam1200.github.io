@@ -86,7 +86,7 @@ const config = {
       title: 'Lofistack',
       description: 'Official Site for Lofistack.',
       imageUrl:
-        'https://drive.google.com/uc?id=1Nfvq-BdpQq7Zlz5xLS9jxkg0dEFtotU6',
+        'https://drive.usercontent.google.com/download?id=1Nfvq-BdpQq7Zlz5xLS9jxkg0dEFtotU6&authuser=0',
       link: 'https://lofistack.com/',
     },
     {
